@@ -1,0 +1,210 @@
+﻿[
+    {
+        "id": "RK",
+        "label": "나이트/룬 나이트/드래곤 나이트",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [8,2,10,0,6,4],
+        "secondExtendJobMaxPT": [15,8,8,2,9,3],
+        "thirdJobMaxPT": [6,6,7,10,9,5],
+        "fourthJobMaxPT": [6,8,7,8,8,6,10,7,3,5,7,8],
+        "Tbasehp": [42047,44922,47917],
+        "Tbasesp": [2360,2646,2961],
+        "baseaspd": 0
+    },
+    {
+        "id": "GX",
+        "label": "어쌔신/길로틴 크로스/쉐도우 크로스",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [6,10,2,4,8,0],
+        "secondExtendJobMaxPT": [9,15,3,0,10,8],
+        "thirdJobMaxPT": [8,11,6,5,9,4],
+        "fourthJobMaxPT": [8,11,6,5,9,4,12,8,4,0,8,8],
+        "baseaspd": 0
+    },
+    {
+        "id": "AB",
+        "label": "프리스트/아크비숍/카디날",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [5,4,5,5,4,7],
+        "secondExtendJobMaxPT": [7,8,7,12,9,2],
+        "thirdJobMaxPT": [6,7,7,12,7,4],
+        "fourthJobMaxPT": [6,7,7,12,7,4,8,5,5,10,5,7],
+        "baseaspd": 0
+    },
+    {
+        "id": "RA",
+        "label": "헌터/레인저/윈드호크",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [4,6,2,4,10,4],
+        "secondExtendJobMaxPT": [4,11,3,5,14,8],
+        "thirdJobMaxPT": [2,12,8,9,8,4],
+        "fourthJobMaxPT": [2,12,8,9,8,4,10,5,5,4,11,5],
+        "baseaspd": 0
+    },
+    {
+        "id": "WL",
+        "label": "위저드/워록/아크메이지",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [1,8,1,12,6,2],
+        "secondExtendJobMaxPT": [3,8,5,17,9,3],
+        "thirdJobMaxPT": [1,7,8,15,8,4],
+        "fourthJobMaxPT": [1,7,8,15,8,4,0,8,8,14,9,1],
+        "baseaspd": 0
+    },
+    {
+        "id": "ME",
+        "label": "블랙스미스/미케닉/마이스터",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [6,2,6,2,12,2],
+        "secondExtendJobMaxPT": [6,7,6,6,12,8],
+        "thirdJobMaxPT": [10,6,10,6,5,6],
+        "fourthJobMaxPT": [10,6,10,6,5,6,10,10,6,0,7,7],
+        "baseaspd": 0
+    },
+    {
+        "id": "RG",
+        "label": "크루세이더/로얄가드/임페리얼 가드",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [7,2,7,6,3,5],
+        "secondExtendJobMaxPT": [9,8,10,7,8,3],
+        "thirdJobMaxPT": [9,3,9,10,9,3],
+        "fourthJobMaxPT": [9,3,9,10,9,3,8,11,6,8,4,3],
+        "Tbasehp": [42218,45557,49081],
+        "Tbasesp": [2451,2613,2783],
+        "baseaspd": 0
+    },
+    {
+        "id": "SC",
+        "label": "로그/쉐도우 체이서/어비스 체이서",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [6,7,6,4,7,0],
+        "secondExtendJobMaxPT": [9,11,4,3,12,6],
+        "thirdJobMaxPT": [8,9,8,6,6,6],
+        "fourthJobMaxPT": [8,9,8,6,6,6,9,8,4,8,5,6],
+        "baseaspd": 0
+    },
+    {
+        "id": "SU",
+        "label": "몽크/수라/인퀴지터",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [8,7,6,2,4,3],
+        "secondExtendJobMaxPT": [9,9,7,7,10,3],
+        "thirdJobMaxPT": [10,10,6,8,8,1],
+        "fourthJobMaxPT": [10,10,6,8,8,1,11,8,6,3,6,6],
+        "Tbasehp": [40387,43581,46952],
+        "Tbasesp": [2381,2708,3077],
+        "baseaspd": 0
+    },
+    {
+        "id": "MI",
+        "label": "바드/민스트럴/트루바두르",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [2,7,3,5,9,4],
+        "secondExtendJobMaxPT": [8,12,2,5,14,4],
+        "thirdJobMaxPT": [7,7,7,9,10,3],
+        "fourthJobMaxPT": [7,7,7,9,10,3,7,7,4,7,11,4],
+        "baseaspd": 0
+    },
+    {
+        "id": "WA",
+        "label": "댄서/원더러/트루베르",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [2,7,3,5,5,8],
+        "secondExtendJobMaxPT": [6,14,2,5,16,2],
+        "thirdJobMaxPT": [7,9,7,9,9,2],
+        "fourthJobMaxPT": [7,9,6,10,8,3,7,7,4,7,11,4],
+        "baseaspd": 0
+    },
+    {
+        "id": "SO",
+        "label": "세이지/소서러/엘리멘탈 마스터",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [5,5,3,9,5,3],
+        "secondExtendJobMaxPT": [6,9,4,13,11,2],
+        "thirdJobMaxPT": [4,4,8,13,9,5],
+        "fourthJobMaxPT": [4,4,8,13,9,5,3,8,8,12,6,3],
+        "baseaspd": 0
+    },
+    {
+        "id": "GE",
+        "label": "알케미스트/제네릭/바이올로",
+        "TranscendentClass": true,
+        "secondJobMaxPT": [5,6,3,7,9,0],
+        "secondExtendJobMaxPT": [4,6,3,7,14,11],
+        "thirdJobMaxPT": [5,6,8,12,8,4],
+        "fourthJobMaxPT": [5,6,8,12,8,4,8,5,4,4,7,12],
+        "baseaspd": 0
+    },
+    {
+        "id": "KO",
+        "label": "카게로/신키로",
+        "TranscendentClass": false,
+        "secondJobMaxPT": [1,8,1,5,6,4],
+        "thirdJobMaxPT": [7,10,6,6,9,5],
+        "fourthJobMaxPT": [10,12,6,6,10,3,10,10,5,1,6,8],
+        "baseaspd": 0
+    },
+    {
+        "id": "OB",
+        "label": "오보로/시라누이",
+        "TranscendentClass": false,
+        "secondJobMaxPT": [1,8,1,5,6,4],
+        "thirdJobMaxPT": [7,10,6,6,8,6],
+        "fourthJobMaxPT": [6,8,6,10,10,3,5,8,10,4,6,7],
+        "baseaspd": 0
+    },
+    {
+        "id": "RE",
+        "label": "리벨리온/나이트워치",
+        "TranscendentClass": false,
+        "secondJobMaxPT": [4,1,1,5,9,7],
+        "thirdJobMaxPT": [3,8,6,8,11,7],
+        "fourthJobMaxPT": [3,8,6,8,11,7,11,6,6,0,10,6],
+        "baseaspd": 0
+    },
+    {
+        "id": "SE",
+        "label": "권성/성제/천제",
+        "TranscendentClass": false,
+        "secondJobMaxPT": [0,0,0,0,0,0],
+        "thirdJobMaxPT": [12,10,6,3,9,3],
+        "fourthJobMaxPT": [12,10,6,3,9,3,12,10,3,0,8,7],
+        "baseaspd": 0
+    },
+    {
+        "id": "SL",
+        "label": "소울리퍼/영도사",
+        "TranscendentClass": false,
+        "secondJobMaxPT": [0,0,0,0,0,0],
+        "thirdJobMaxPT": [3,7,7,11,13,2],
+        "fourthJobMaxPT": [3,7,7,11,13,2,0,8,7,16,7,3],
+        "baseaspd": 0
+    },
+    {
+        "id": "SUM",
+        "label": "소환사/혼령사",
+        "TranscendentClass": false,
+        "secondJobMaxPT": [0,0,0,0,0,0],
+        "thirdJobMaxPT": [0,7,5,9,12,5],
+        "fourthJobMaxPT": [5,7,5,9,12,5,9,6,5,9,7,4],
+        "baseaspd": 0
+    },
+    {
+        "id": "SN",
+        "label": "슈퍼노비스/하이퍼노비스",
+        "TranscendentClass": false,
+        "secondJobMaxPT": [0,0,0,0,0,0],
+        "thirdJobMaxPT": [7,7,6,6,6,5],
+        "fourthJobMaxPT": [10,5,6,10,6,6,10,5,4,10,8,3],
+        "baseaspd": 0
+    },
+    {
+        "id": "DR",
+        "label": "드루이드/카르노스/알리테아",
+        "TranscendentClass": false,
+        "secondJobMaxPT": [6,2,3,6,6,2],
+        "thirdJobMaxPT": [7,5,5,7,7,4],
+        "fourthJobMaxPT": [12,10,6,3,9,3,12,10,3,0,8,7],
+        "baseaspd": 0
+    }
+]
